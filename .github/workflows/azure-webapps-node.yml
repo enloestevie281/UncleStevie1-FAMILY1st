@@ -75,4 +75,4 @@ jobs:
       with:
         app-name: ${{ env.AZURE_WEBAPP_NAME }}
         publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-        package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+        package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}https://github.com/UncleStevie1/UncleStevie1-FAMILY1st/blob/main/.github/workflows/azure-webapps-node.yml
