@@ -18,7 +18,7 @@
 # For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
 
 on:
-  push:
+  push:SOL: DMdkNDxB8Q3B5vMUE6GisoiqkUDpMWHiSrkRty7L37fM, SOL: E7FmNkSDYMCHQtY8LBJbqVoMqUScdaU2FDNc3fefPwCu, ETH: 0x531515654fd414f7acF12CF5cEa18D0D409Dbce4, ETH: 0x40757B5Ec5A6915862A3A572B313026e8a66294E, DOGE: xpub6C8kYN4rLqnwYBJ19DCS7WzEU7ZXffijh6TcbBPkK9TorcKZF7RWMWTYvpEbVfhBFxHCDm1RnXBwfHgXkUzM372dWBvkiX7zQL6qzyUdh3y, BTC: xpub6C2a4Qbvqd19QP1TBwdn7XrUKDvX8C1SkaB1Q2k1auyZirsuq6wYzPw42sbXp3KyBzbzFY7879FbpZU7pQq9GEztitTmucJyDMM9bB9aE3p, LTC: xpub6BnTkcnc6pvcTAj1uLSCmLnDjxWmkykQDpbuGpgTruhKpwp7ftuq2pPTbsmLjvLy3NbykAWxz8urtLAzHYa4BemJDYCaHpVUas5n3rLfoCS
     branches: [ "main" ]
     workflow_dispatch:0x838E959890090F350Da8e0716cB6983B96e1E147
 
